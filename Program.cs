@@ -13,7 +13,7 @@ namespace FourCs
 
             for (int i = 0; i < 5; i++)
             {
-                N = 1;
+                Console.WriteLine("Hello there");
             }
         }
 
