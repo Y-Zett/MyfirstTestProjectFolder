@@ -1,2 +1,2 @@
 # MyfirstTestProjectFolder
-This is just for tnest. Any usabilities aren't availible.
+This is just for test. Any usabilities aren't availible.
