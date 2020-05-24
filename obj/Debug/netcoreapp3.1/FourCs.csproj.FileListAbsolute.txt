@@ -1,0 +1,13 @@
+C:\Users\Professional\source\repos\FourCs\bin\Debug\netcoreapp3.1\FourCs.exe
+C:\Users\Professional\source\repos\FourCs\bin\Debug\netcoreapp3.1\FourCs.deps.json
+C:\Users\Professional\source\repos\FourCs\bin\Debug\netcoreapp3.1\FourCs.runtimeconfig.json
+C:\Users\Professional\source\repos\FourCs\bin\Debug\netcoreapp3.1\FourCs.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\FourCs\bin\Debug\netcoreapp3.1\FourCs.dll
+C:\Users\Professional\source\repos\FourCs\bin\Debug\netcoreapp3.1\FourCs.pdb
+C:\Users\Professional\source\repos\FourCs\obj\Debug\netcoreapp3.1\FourCs.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\FourCs\obj\Debug\netcoreapp3.1\FourCs.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\FourCs\obj\Debug\netcoreapp3.1\FourCs.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\FourCs\obj\Debug\netcoreapp3.1\FourCs.AssemblyInfo.cs
+C:\Users\Professional\source\repos\FourCs\obj\Debug\netcoreapp3.1\FourCs.dll
+C:\Users\Professional\source\repos\FourCs\obj\Debug\netcoreapp3.1\FourCs.pdb
+C:\Users\Professional\source\repos\FourCs\obj\Debug\netcoreapp3.1\FourCs.genruntimeconfig.cache
