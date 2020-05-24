@@ -15,6 +15,14 @@ namespace FourCs
             {
                 Console.WriteLine("Hello there");
             }
+
+            for (int e = 0; e < 10; e++)
+            {
+                if (e > 5)
+                {
+                    Console.WriteLine("Hentai");
+                }
+            }
         }
 
     }
